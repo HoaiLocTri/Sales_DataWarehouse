@@ -19,9 +19,9 @@ CÔNG NGHỆ VÀ CÔNG CỤ
     + SQL Server Analysis Services (SSAS)
 
 CÀI ĐẶT VÀ SỬ DỤNG
-	Bước 1: Trong Project/T-SQL, thực thi 3 file .sql (SalesData.sql, SalesStage.sql, SalesDW.sql)
-	Bước 2: Trong Projec/Code, chạy Nhom14_SSIS_Project.sln -> chạy 3 package theo thứ tự SalesData.dtsx > SalesStage.dtsx > SalesDW.dtsx
-	Bước 3: Trong Project/Code, chạy Nhom14_SSAS_Project.sln -> Deploy
+	Bước 1: Trong T-SQL, thực thi 3 file .sql (SalesData.sql, SalesStage.sql, SalesDW.sql)
+	Bước 2: Trong Code, chạy Nhom14_SSIS_Project.sln -> chạy 3 package theo thứ tự SalesData.dtsx > SalesStage.dtsx > SalesDW.dtsx
+	Bước 3: Trong Code, chạy Nhom14_SSAS_Project.sln -> Deploy
 	Bước 4: Phân tích và trực quan dữ liệu trên PowerBI
 
 DỮ LIỆU
