@@ -1,14 +1,7 @@
 XÂY DỰNG KHO DỮ LIỆU VÀ PHÂN TÍCH DỮ LIỆU BÁN HÀNG
 
 MÔ TẢ
-Đô án "XÂY DỰNG KHO DỮ LIỆU VÀ PHÂN TÍCH DỮ LIỆU BÁN HÀNG" nhằm mục đích xây dựng một hệ thống kho dữ liệu để lưu trữ thông tin về bán hàng và thực hiện phân tích dữ liệu từ các thông tin đó. Dự án giúp cho việc quản lý và phân tích dữ liệu bán hàng trở nên hiệu quả hơn, từ đó mang lại các thông tin quan trọng và đáng tin cậy để hỗ trợ quyết định kinh doanh.
-
-THỰC HIỆN 
-- Nhóm 14:
-	+ Nguyễn Trung Cường - 20133028
-	+ Huỳnh Gia Huy - 20133046
-	+ Nguyễn Lê Huỳnh - 20133049
-	+ Trì Hoài Lộc - 20133063
+Dự án nhằm mục đích xây dựng một hệ thống kho dữ liệu để lưu trữ thông tin về bán hàng và thực hiện phân tích dữ liệu từ các thông tin đó. Dự án giúp cho việc quản lý và phân tích dữ liệu bán hàng trở nên hiệu quả hơn, từ đó mang lại các thông tin quan trọng và đáng tin cậy để hỗ trợ quyết định kinh doanh.
 
 CÔNG NGHỆ VÀ CÔNG CỤ
 - Visual Studio 2019/2022
